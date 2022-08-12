@@ -1,6 +1,6 @@
 import {useState, useEffect} from 'react'
 
-const API_BASE = "https://mern-app7336.herokuapp.com/"
+const API_BASE = "https://mern-app7336.herokuapp.com"
 
 function App() {
 
